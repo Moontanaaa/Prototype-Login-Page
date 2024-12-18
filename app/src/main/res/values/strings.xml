@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="btn_password_icon_display">Afficher le Mot de Passe</string>
+    <string name="btn_password_icon_hide">Masquer le Mot de Passe</string>
+    <string name="btn_login_with_facebook">Se connecter avec facebook</string>
+    <string name="btn_login_with_apple">Se connecter avec apple</string>
+    <string name="btn_login_with_google">Se connecter avec google</string>
+</resources>
